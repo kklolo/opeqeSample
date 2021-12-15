@@ -1,6 +1,3 @@
-# opeqeSample
-Sample project for Opeqe company
-
 Technology used:
 
 
@@ -46,8 +43,7 @@ Android fluent animations
 
 MemoryLeak and weak reference check ->LeakCanary
 
- 
-Sample Unit test
+Sample for Ui test
 
 bunch of android libraries :Android shimmer -TextEffect -CustomFont-CircleImageView -tastytoast - etc
 

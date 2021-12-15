@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpeqeSample</string>
+
+
+    <!-- sample comment for xml files -->
+
+    <!-- alert dialog -->
+    <string name="loading">Loading …</string>
+    <string name="back_button">back button</string>
+
+
+</resources>
